@@ -42,7 +42,7 @@ home_url: https://geneasy.github.io/nav/
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: zcx
     icon: linecons-star
     links:
       - title: DTO
@@ -66,7 +66,7 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
 
-  - category: 推荐
+  - category: 这地方写啥？
     hide_menu: true
     icon: linecons-star
     links:
@@ -91,7 +91,7 @@ categories:
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 程序员博客
+  - category: 这地方写啥？
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -112,7 +112,7 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 设计师博客
+  - category: 这地方写啥？
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -132,7 +132,7 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 个人博客
+  - category: 这地方写啥？
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -152,7 +152,7 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 社区
+  - category: 这地方写啥？
     icon: linecons-doc
     links:
       - title: DTO
